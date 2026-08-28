@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.log
+pipeline.csv
+events.csv
+operators.csv
+outreach-drafts.md
+scorecard.md
+OPERATORS.md
